@@ -1,0 +1,4 @@
+# Screen density
+ro.sf.lcd_density=480 
+ro.arch=exynos7880
+ro.chipname=exynos7880
